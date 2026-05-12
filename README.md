@@ -11,8 +11,4 @@ I’ve been learning programming for only a few months. I use Linux, and Arch is
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AlexeyBaolleo"><img src="https://github-readme-stats.vercel.app/api?username=AlexeyBaolleo&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="AlexeyBaolleo's GitHub stats" /></a>
-
 <a href="http://www.github.com/AlexeyBaolleo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexeyBaolleo&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
